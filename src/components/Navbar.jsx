@@ -6,11 +6,11 @@ import styled from 'styled-components'
 
 
 const Container = styled.div`
-   height : 40px;
+   height : 80px;
   
 `;
 const Wrapper = styled.div`
-   padding : 2px 20px;
+   padding : 5px 20px;
    display : flex;
    align-items : center;
    justify-content : space-between;
